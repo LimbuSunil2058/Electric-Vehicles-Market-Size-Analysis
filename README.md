@@ -33,6 +33,15 @@ The dataset contains detailed records about electric vehicles registered in the 
 - **Vehicle Location**: Latitude and longitude coordinates.
 - **Electric Utility**: Name of the electric utility provider for the location.
 - **2020 Census Tract**: Census tract code based on 2020 U.S. Census data.
+## 🔗 Dataset Source
+
+Due to its large size, the dataset is not included in this repository.  
+You can access and download the full dataset from the official source below:
+
+**[EV Market Size Dataset - statso.io](https://statso.io/market-size-of-evs-case-study/)**
+
+Once downloaded, you can place the dataset in the root folder or a `data/` directory to run the analysis notebooks.
+
 
 ## 🛠️ Tools & Libraries
 
